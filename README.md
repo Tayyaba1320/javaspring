@@ -7,4 +7,4 @@ class X1
 {
         public static void main{
         }
-        }
+       }
